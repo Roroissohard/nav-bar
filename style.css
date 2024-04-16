@@ -1,0 +1,12 @@
+.bg-gradient {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(134,79,168,1) 0%, rgba(97,9,121,1) 35%, rgba(254,0,255,1) 100%) !important
+}
+
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+}
